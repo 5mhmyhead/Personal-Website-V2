@@ -15,7 +15,7 @@
   width: 100%;
   height: 100%;
   background: #222323;
-  animation: slideDown 2s cubic-bezier(0.77, 0, 0.175, 1) forwards;
+  animation: slideDown 2.4s cubic-bezier(0.77, 0, 0.175, 1) forwards;
 }
 
 .overlay.logo {
