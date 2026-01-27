@@ -1,2 +1,2 @@
-# Personal-Website-V2
-Another personal website for my coding journey
+# Valorant Card Gallery
+College activity for Web Development
