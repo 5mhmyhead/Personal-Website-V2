@@ -114,6 +114,34 @@ body {
   font-size: 12px;
 }
 
+.wiki {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.wiki a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  background-color: #222323;
+  color: #f0f6f0;
+  font-size: 12px;
+
+  padding: 10px 15px;
+  margin-top: 25px;
+
+  text-decoration: none;
+  border-radius: 100px;
+
+  transition: 
+    transform 0.2s ease,
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
 .bottom {
   display: flex;
   justify-content: space-between;
@@ -132,3 +160,12 @@ body {
   font-size: 20px;
   font-weight: bold;
 }
+
+.copyright {
+  text-align: right;
+}
+
+.logo {
+  margin-left: 50px;
+}
+
